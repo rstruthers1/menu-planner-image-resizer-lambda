@@ -1,4 +1,4 @@
-# menu-planner-image-resizer-
+# menu-planner-image-resizer-lambda
 
 Node function for resizing images for the menu planner project.
 
