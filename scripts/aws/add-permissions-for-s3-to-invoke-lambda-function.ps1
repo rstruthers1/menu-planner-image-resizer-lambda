@@ -1,0 +1,1 @@
+aws lambda add-permission --function-name ImageResizer --principal s3.amazonaws.com --statement-id s3invoke --action "lambda:InvokeFunction" --source-arn arn:aws:s3:::homemenuplanner-images --source-account 777605092423
